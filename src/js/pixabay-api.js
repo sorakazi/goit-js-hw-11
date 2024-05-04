@@ -8,6 +8,6 @@ export const options = {
     image_type: 'photo',
     orientation: 'horizontal',
     page: 1,
-    per_page: 40,
+    per_page: 21,
   },
 };
